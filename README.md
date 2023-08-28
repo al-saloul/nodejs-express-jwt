@@ -13,11 +13,11 @@ node app.js
 with one of these payloads:
 
 ```json
-{ username: 'admin', password: 'adminpassword' }
+{ "username": "admin", "password": "adminpassword" }
 ```
 
 ```json
-{ username: 'user', password: 'userpassword' }
+{ "username": "user", "password": "userpassword" }
 ```
 
 ```
